@@ -185,6 +185,5 @@ It will be used to enter a set of data in UI like forms.
    * Once the script is finished, we can find the report at /Artwork-UI-Automation/target/cucumber-report-html/cucumber-html-reports/overview-features.html
    * Logs will be displayed on Console as well as log folder with timestamp will be present in project.
    
-   ![Giphy](https://media3.giphy.com/media/Tv7VPg6Os488g/giphy.gif) 
 
  
